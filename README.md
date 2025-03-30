@@ -36,3 +36,5 @@ The process of incorporating  GitHub version control allowed me to track and man
 ### GitHub Action
 Through GitHub Action we perform testing to ensure the app's functionality 
 
+## Screenshots and App Demo
+
