@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+ android:background="@drawable/pic"
+    android:padding="25dp"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/suggestionTv"
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="60dp"
+        android:background="@color/khaki"
+        android:padding="17dp"
+        android:text="My meal suggestion App"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editTextTime"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:hint="Enter any time of day ( e.g. morning"
+        android:inputType="text"
+        android:padding="25dp" />
+
+    <Button
+        android:id="@+id/mealSuggestionBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:layout_marginBottom="23dp"
+        android:backgroundTint="@color/brown"
+        android:text="display suggestion"
+        android:textSize="17sp" />
+
+    <Button
+        android:id="@+id/ResetBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:backgroundTint="@color/brown"
+        android:text="Reset" />
+
+    <TextView
+        android:id="@+id/ResultsTv"
+        android:layout_width="match_parent"
+        android:layout_height="194dp"
+        android:background="@color/khaki"
+        android:padding="70dp"
+        android:textSize="22sp"
+        android:textStyle="italic" />
+
+
+</LinearLayout>
