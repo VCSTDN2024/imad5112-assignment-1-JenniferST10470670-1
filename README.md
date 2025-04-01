@@ -1,14 +1,44 @@
-# Meal-Plan 
-# Objective : a native Andriod app using kotlin in Android Studio, it provides suggestions  meals  based on time of day . 
-# Background  * A user struggling with deciding what to eat  due to their busy scheduel, the App will provide simple meal choices by suggesting  meals based on time of day allowing the user to be more efficient when it come to meals
-# PURPOSE OF The APP 
- *Outlined meal options provided 
- * The interface provides clear feedback and minimal effort
- * maintainable code which involves clear logics and is well structured
- # The design coniderations
-  * Xml design elements such as colours and background  images  
-  * The  layout allows users to engage with the app effortlessly
-  * A user-friendly screen designed for easy accessiblity with clear use of fonts within the textview and buttons
-# utilisation of  GitHub and GitHub Action 
-* GitHub allows projects to be 
-     
+
+## Assignment 1 
+
+# [App name : Meal-Plan]
+- **Developer**: [Jennifer Merveille Baleke]
+- **Student Number**: [ST10470670]
+- **Group**:[ Group1]
+- **Course**: [Introduction to Mobile Application And Web Development]
+- **Subject**: [IMAD5112]
+
+## Links
+- **GitHub Repository**: [https://github.com/JenniferST10470670/Meal-plan.git]
+- **YouTube Video**: [YouTube Video Link]
+
+### Project Overview
+
+The **[Meal-Plan]** is a mobile application developed as part of an assignment in the [Introduction to Mobile Application ]
+The  application was created using **Kotlin** in  **Android Studio** and we had to incorporate the **If else statement** as part of the assignment 
+The app's primary purpose  is to  [ provide meal suggestion  based on time of day for users ]
+
+## Purpose and Features
+The application provide users with meal sugggestion for certain time of day , allowing users to have different  meal options throughout the day
+
+### Key Features:
+- **Feature 1**: The  App screen provides clear feedback with  minimal effort
+- **Feature 1**:The App has maintainable code which involves clear logics and is well structured
+- **Feature 1**: The App has a suggestion button which provide users with  meall options and Reset Button allows the input to be cleared
+  
+## Design Consideration
+- **Layout design and Accessibility**: allows users to engage with the app effortlessly with design element such as background image, font and colours which provides the app with a aesthetic 
+     appeal
+- **Simplicity**: A user-friendly screen designed for easy accessiblity and performance allowing quick response for user input  and providing meal suggestion instantely 
+ 
+## GitHub and GitHub Action Utilisation
+The process of incorporating  GitHub version control allowed me to track and manage code changes through commits and regular
+### GitHub Action
+Through GitHub Action we perform testing to ensure the app's functionality 
+
+## Screenshots and App Demo
+
+![Screenshot 2025-03-30 164049](https://github.com/user-attachments/assets/ab6bdf38-8735-46cd-8a24-0d708f343d18)
+
+
+
