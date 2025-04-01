@@ -56,13 +56,13 @@ class MainActivity : AppCompatActivity() {
         val time = editTextTime.text.toString().trim().lowercase()
         var suggestion = ""
         if (time == "morning") {
-            suggestion = " omelette with croissant" // we are comparing different time of day for different meal suggestions
+            suggestion = " breakfast=omelette with croissant" // we are comparing different time of day for different meal suggestions
         } else if (time == "mid-morning") {
-            suggestion = "Snacks -(chia pudding"
+            suggestion = "Snacks =chia pudding"
         } else if (time == "afternoon") {
-            suggestion = " Lunch = salmon with mix veg"
+            suggestion = " Lunch =salmon with mix veg"
         } else if (time == "mid-afternoon") {
-            suggestion = "Nibbles- fruit sald"
+            suggestion = "Nibbles= fruit sald"
         } else if (time == "evening") {
             suggestion = " Dinner=  Dinner- ( lamb curry with mashed potatoes"
         } else {
