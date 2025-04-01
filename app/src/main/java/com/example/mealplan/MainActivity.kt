@@ -1,10 +1,11 @@
 /*  referencing List*/
 /* https://www.youtube.com/watch?v=_u8zA1CxxV4&t=2642s*/
-/* */
+/* https://www.youtube.com/watch?v=xAslJ-f9PWs*/
+/*https://www.programiz.com/kotlin-programming/functions*/
+/*(Tutor"IMAD lessons Anjali Sunil Morar,2025)*/
 
 
 package com.example.mealplan
-
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
